@@ -1,0 +1,20 @@
+table#table1 {
+	margin: 0 auto;
+	margin-top: auto;
+}
+
+body {
+	background: url("./images/avocado-shortage-FT-BLOG0119.jpg");
+}
+.style-table {
+	padding: 3em;
+	opacity: 0.85;
+	border-style: solid;
+	border-radius: 15px;
+	background-color: #fff;
+}
+.style-buttons {
+	margin: 0 auto;
+    width: 45%;
+    margin-top: 3em;
+}
